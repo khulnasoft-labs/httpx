@@ -12,7 +12,7 @@ require (
 	github.com/hdm/jarm-go v0.0.7
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/khulnasoft-labs/asnmap v1.0.0
-	github.com/khulnasoft-labs/cdncheck v1.0.2
+	github.com/khulnasoft-labs/cdncheck v1.0.12
 	github.com/khulnasoft-labs/clistats v0.0.2
 	github.com/khulnasoft-labs/fastdialer v0.0.35
 	github.com/khulnasoft-labs/fdmax v0.0.6
