@@ -18,7 +18,7 @@ require (
 	github.com/khulnasoft-labs/fdmax v0.0.6
 	github.com/khulnasoft-labs/goconfig v0.0.1
 	github.com/khulnasoft-labs/goflags v0.1.11
-	github.com/khulnasoft-labs/gologger v1.1.11
+	github.com/khulnasoft-labs/gologger v1.1.13
 	github.com/khulnasoft-labs/hmap v0.0.15
 	github.com/khulnasoft-labs/mapcidr v1.1.1
 	github.com/khulnasoft-labs/ratelimit v0.0.9
