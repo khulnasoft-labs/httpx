@@ -17,7 +17,7 @@ require (
 	github.com/khulnasoft-labs/fastdialer v0.0.35
 	github.com/khulnasoft-labs/fdmax v0.0.6
 	github.com/khulnasoft-labs/goconfig v0.0.1
-	github.com/khulnasoft-labs/goflags v0.1.11
+	github.com/khulnasoft-labs/goflags v0.1.16
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/hmap v0.0.15
 	github.com/khulnasoft-labs/mapcidr v1.1.1
