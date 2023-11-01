@@ -35,7 +35,7 @@ require (
 	github.com/khulnasoft-lab/asnmap v1.0.1
 	github.com/khulnasoft-lab/cdncheck v1.0.13
 	github.com/khulnasoft-lab/clistats v0.0.5
-	github.com/khulnasoft-lab/dsl v0.0.0-20231002220339-4c3b5655036b
+	github.com/khulnasoft-lab/dsl v0.0.0-20231101080025-80423217ad8f
 	github.com/khulnasoft-lab/fastdialer v0.0.37
 	github.com/khulnasoft-lab/fdmax v0.0.7
 	github.com/khulnasoft-lab/goconfig v0.0.2
@@ -118,7 +118,7 @@ require (
 	github.com/refraction-networking/utls v1.5.4 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
-	github.com/sashabaranov/go-openai v1.15.4 // indirect
+	github.com/sashabaranov/go-openai v1.16.0 // indirect
 	github.com/shirou/gopsutil/v3 v3.23.9 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect

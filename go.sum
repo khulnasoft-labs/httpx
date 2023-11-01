@@ -144,6 +144,8 @@ github.com/khulnasoft-lab/clistats v0.0.5 h1:qgvXmvxwFcAEb3SRtAIlSrzqoRzoTx3b3s+
 github.com/khulnasoft-lab/clistats v0.0.5/go.mod h1:3GTG7/uc63M5IFH5UXIMomb0JNkqL8RyMx82gXrfu9Q=
 github.com/khulnasoft-lab/dsl v0.0.0-20231002220339-4c3b5655036b h1:TSJp4QfgklpdKlC6kDC7a+eUcopQud+WQwwTaavLSO8=
 github.com/khulnasoft-lab/dsl v0.0.0-20231002220339-4c3b5655036b/go.mod h1:29zh0gt60yCYrdYBXzx8FywX5A08JWK+ycZjrUgvvQc=
+github.com/khulnasoft-lab/dsl v0.0.0-20231101080025-80423217ad8f h1:pWWqcGwnXD2ZxOsyN1HVmCNkK3QcZjCmldRejf7v9aI=
+github.com/khulnasoft-lab/dsl v0.0.0-20231101080025-80423217ad8f/go.mod h1:ofDJiW35qTT5Rk59Df74XD3Ug/uZH/xu3gsLwxr6NuI=
 github.com/khulnasoft-lab/fastdialer v0.0.37 h1:Asyk7cFlqPh2+QUJ8qmQ6Je/ss0Xnm5VsswXjUx4jtM=
 github.com/khulnasoft-lab/fastdialer v0.0.37/go.mod h1:LozALDyn7IjaIXS8o9k6VijFFpU59iivL590utPvwuY=
 github.com/khulnasoft-lab/fdmax v0.0.7 h1:E1P7nWBAi7D0gD5Xcaugfqa6oXFTiAYXHJk+qOuksrw=
@@ -281,6 +283,8 @@ github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d h1:hrujxIzL1woJ7
 github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d/go.mod h1:uugorj2VCxiV1x+LzaIdVa9b4S4qGAcH6cbhh4qVxOU=
 github.com/sashabaranov/go-openai v1.15.4 h1:BXCR0Uxk5RipeY4yBC7g6pBVfcjh8jwrMNOYdie6yuk=
 github.com/sashabaranov/go-openai v1.15.4/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
+github.com/sashabaranov/go-openai v1.16.0 h1:34W6WV84ey6OpW0p2UewZkdMu82AxGC+BzpU6iiauRw=
+github.com/sashabaranov/go-openai v1.16.0/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
 github.com/shirou/gopsutil/v3 v3.23.9 h1:ZI5bWVeu2ep4/DIxB4U9okeYJ7zp/QLTO4auRb/ty/E=
 github.com/shirou/gopsutil/v3 v3.23.9/go.mod h1:x/NWSb71eMcjFIO0vhyGW5nZ7oSIgVjrCnADckb85GA=
 github.com/shoenig/go-m1cpu v0.1.6 h1:nxdKQNcEB6vzgA2E2bvzKIYRuNj7XNJ4S/aRSwKzFtM=
