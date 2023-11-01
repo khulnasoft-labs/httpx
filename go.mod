@@ -48,7 +48,7 @@ require (
 	github.com/khulnasoft-lab/retryablehttp-go v1.0.21
 	github.com/khulnasoft-lab/tlsx v0.0.0-20231101045244-b306c2a45866
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/khulnasoft-lab/wappalyzergo v0.0.0-20231101023942-2f19f8c6a4ea
+	github.com/khulnasoft-lab/wappalyzergo v0.0.0-20231101072643-4ac589713361
 	github.com/mfonda/simhash v0.0.0-20151007195837-79f94a1100d6
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/stretchr/testify v1.8.4
