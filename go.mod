@@ -19,7 +19,7 @@ require (
 	go.etcd.io/bbolt v1.3.7 // indirect
 	golang.org/x/net v0.17.0
 	golang.org/x/sys v0.13.0 // indirect
-	golang.org/x/text v0.13.0
+	golang.org/x/text v0.14.0
 )
 
 require github.com/spaolacci/murmur3 v1.1.0
