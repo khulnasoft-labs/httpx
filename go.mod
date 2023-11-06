@@ -52,7 +52,7 @@ require (
 	github.com/mfonda/simhash v0.0.0-20151007195837-79f94a1100d6
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/stretchr/testify v1.8.4
-	github.com/zmap/zcrypto v0.0.0-20231018155041-c1c1128be414
+	github.com/zmap/zcrypto v0.0.0-20231106212110-94c8f62efae4
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 )
