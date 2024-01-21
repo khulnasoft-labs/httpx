@@ -35,7 +35,7 @@ require (
 	github.com/khulnasoft-lab/asnmap v1.0.1
 	github.com/khulnasoft-lab/cdncheck v1.0.13
 	github.com/khulnasoft-lab/clistats v0.0.5
-	github.com/khulnasoft-lab/dsl v0.0.1
+	github.com/khulnasoft-lab/dsl v0.0.2
 	github.com/khulnasoft-lab/fastdialer v0.0.38
 	github.com/khulnasoft-lab/fdmax v0.0.7
 	github.com/khulnasoft-lab/goconfig v0.0.2
@@ -89,7 +89,7 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/kataras/jwt v0.1.10 // indirect
+	github.com/kataras/jwt v0.1.12 // indirect
 	github.com/khulnasoft-lab/blackrock v0.0.5 // indirect
 	github.com/khulnasoft-lab/freeport v0.0.3 // indirect
 	github.com/khulnasoft-lab/gostruct v0.0.1-beta // indirect
@@ -118,7 +118,7 @@ require (
 	github.com/refraction-networking/utls v1.5.4 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
-	github.com/sashabaranov/go-openai v1.16.0 // indirect
+	github.com/sashabaranov/go-openai v1.18.1 // indirect
 	github.com/shirou/gopsutil/v3 v3.23.9 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect

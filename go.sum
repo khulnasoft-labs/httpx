@@ -130,6 +130,8 @@ github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4d
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
 github.com/kataras/jwt v0.1.10 h1:GBXOF9RVInDPhCFBiDumRG9Tt27l7ugLeLo8HL5SeKQ=
 github.com/kataras/jwt v0.1.10/go.mod h1:xkimAtDhU/aGlQqjwvgtg+VyuPwMiyZHaY8LJRh0mYo=
+github.com/kataras/jwt v0.1.12 h1:FHPgTTj5UqjlBye4PA4/oxknCY+kQ9K34XAi8d37glA=
+github.com/kataras/jwt v0.1.12/go.mod h1:xkimAtDhU/aGlQqjwvgtg+VyuPwMiyZHaY8LJRh0mYo=
 github.com/khulnasoft-lab/asnmap v1.0.1 h1:CaG3g03vqRBGoyNlkmriaD/d3dXY/1K4iw2WBpozRxg=
 github.com/khulnasoft-lab/asnmap v1.0.1/go.mod h1:opWR2kl7Pj9QxmwJHPgwUl1lbuL5Ze5JdETl2BfQ/s4=
 github.com/khulnasoft-lab/blackrock v0.0.5 h1:bO0AyWFsl5UR+/L5nY1UaLZ5vNX687AeDsfx7NeB374=
@@ -140,6 +142,8 @@ github.com/khulnasoft-lab/clistats v0.0.5 h1:qgvXmvxwFcAEb3SRtAIlSrzqoRzoTx3b3s+
 github.com/khulnasoft-lab/clistats v0.0.5/go.mod h1:3GTG7/uc63M5IFH5UXIMomb0JNkqL8RyMx82gXrfu9Q=
 github.com/khulnasoft-lab/dsl v0.0.1 h1:p7dSyu6wTqyZcM7wEVrIRMNrhncc5iGe1WEh1AAxmlU=
 github.com/khulnasoft-lab/dsl v0.0.1/go.mod h1:VK83S4DIU9yHNHxJ5OuzljwFAsrRITDAfbWWm7tkxUo=
+github.com/khulnasoft-lab/dsl v0.0.2 h1:eltbt9/KABGvK3dtoq+3EBzOegtKv7NnXQnPYd+rQck=
+github.com/khulnasoft-lab/dsl v0.0.2/go.mod h1:XqU7OrWuUbeTDeejAjT9GXg8JJM/b4znbnGNMDon6P8=
 github.com/khulnasoft-lab/fastdialer v0.0.38 h1:n8nX5UfRmnmwsZvSScH+YiU6VmHfAN+VqSgCicIDvvQ=
 github.com/khulnasoft-lab/fastdialer v0.0.38/go.mod h1:qMuxWV4Nb6rvun8bBimJKbCSbnFWyudvTXN1QHVhbAQ=
 github.com/khulnasoft-lab/fdmax v0.0.7 h1:E1P7nWBAi7D0gD5Xcaugfqa6oXFTiAYXHJk+qOuksrw=
@@ -275,6 +279,8 @@ github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d h1:hrujxIzL1woJ7
 github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d/go.mod h1:uugorj2VCxiV1x+LzaIdVa9b4S4qGAcH6cbhh4qVxOU=
 github.com/sashabaranov/go-openai v1.16.0 h1:34W6WV84ey6OpW0p2UewZkdMu82AxGC+BzpU6iiauRw=
 github.com/sashabaranov/go-openai v1.16.0/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
+github.com/sashabaranov/go-openai v1.18.1 h1:AnLoJrFaFtcUYWCtz+8V0zrlXxkiwqpWlAmCAZUnDNQ=
+github.com/sashabaranov/go-openai v1.18.1/go.mod h1:lj5b/K+zjTSFxVLijLSTDZuP7adOgerWeFyZLUhAKRg=
 github.com/shirou/gopsutil/v3 v3.23.9 h1:ZI5bWVeu2ep4/DIxB4U9okeYJ7zp/QLTO4auRb/ty/E=
 github.com/shirou/gopsutil/v3 v3.23.9/go.mod h1:x/NWSb71eMcjFIO0vhyGW5nZ7oSIgVjrCnADckb85GA=
 github.com/shoenig/go-m1cpu v0.1.6 h1:nxdKQNcEB6vzgA2E2bvzKIYRuNj7XNJ4S/aRSwKzFtM=
