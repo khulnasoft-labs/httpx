@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/httpx
 go 1.21
 
 require (
-	github.com/Mzack9999/gcache v0.0.0-20230410081825-519e28eab057
+	github.com/Mzack9999/gcache 12546c6e3f4c
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/corona10/goimagehash v1.1.0
 	github.com/corpix/uarand v0.2.0
